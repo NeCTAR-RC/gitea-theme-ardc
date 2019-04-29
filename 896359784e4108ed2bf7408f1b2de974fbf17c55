@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5e2d4d89_1c95e35c",
+        "filename": "templates/home.tmpl",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2019-04-29T09:16:20Z",
+      "side": 1,
+      "message": "Could just change to \"Nectar Git Server\" It should be branded nectar as opposed to ARDC I think as it\u0027s under the nectar domain like all our other stuff",
+      "range": {
+        "startLine": 12,
+        "startChar": 8,
+        "endLine": 12,
+        "endChar": 45
+      },
+      "revId": "896359784e4108ed2bf7408f1b2de974fbf17c55",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5",
+      "unresolved": true
+    }
+  ]
+}
