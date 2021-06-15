@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "179c38ca_e559bc8c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2021-06-15T05:04:39Z",
+      "side": 1,
+      "message": "Apparently we can add a template for the login form and remove the username/password fields, so lets also look at that (or at least make them less prominent)",
+      "revId": "71361e4c7ca230f43f83eb0b21fef23b3cf1f943",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5"
+    }
+  ]
+}
