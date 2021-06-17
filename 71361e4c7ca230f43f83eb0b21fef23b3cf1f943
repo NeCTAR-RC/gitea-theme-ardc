@@ -16,6 +16,24 @@
       "message": "Apparently we can add a template for the login form and remove the username/password fields, so lets also look at that (or at least make them less prominent)",
       "revId": "71361e4c7ca230f43f83eb0b21fef23b3cf1f943",
       "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6f55d573_3c002b67",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000077
+      },
+      "writtenOn": "2021-06-17T00:13:07Z",
+      "side": 1,
+      "message": "and lets try and remove the OpenID tab!",
+      "parentUuid": "179c38ca_e559bc8c",
+      "revId": "71361e4c7ca230f43f83eb0b21fef23b3cf1f943",
+      "serverId": "f182a8af-62ca-4ceb-ab81-14f8fec9c6c5"
     }
   ]
 }
