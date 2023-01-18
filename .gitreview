@@ -2,4 +2,4 @@
 host=review.rc.nectar.org.au
 port=29418
 project=NeCTAR-RC/gitea-theme-ardc.git
-defaultbranch=nectar/v1.15.6
+defaultbranch=nectar/v1.18.1
